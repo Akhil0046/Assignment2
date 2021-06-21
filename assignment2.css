@@ -1,0 +1,131 @@
+#maindiv
+{
+ background-image: linear-gradient(to right,red, blue);
+ font-family: sans-serif;
+}
+#mnd
+{
+    margin-left: 55px;
+}
+.h1
+{
+    margin-left: 375px;
+    color: white;
+}
+.d1
+{
+    display: inline-flex;
+}
+.d2
+{
+    margin-left: 280px;
+    font-size: x-large;
+    margin-top: 15px;
+}
+.a1
+{
+    text-decoration: none;
+    color: white;
+}
+.b1
+{
+    background-color: rgb(240, 197, 6);
+    width: 258px;
+    margin-left: 10px;
+}
+.d4
+{
+    display: inline-flex;
+    margin-top: 20px;
+}
+.dd
+{
+    background-image: url(./image/taco.jpg);
+    background-size: cover;
+    width: 900px;
+    margin-left: 10px;
+    height: 320px;
+    margin-top: 15px;
+}
+.bb1
+{
+    width: 250px;
+    height: 35px;
+    background-color: yellow;
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 100px;
+    margin-left: 30px;
+}
+.bb2
+{
+    width: 130px;
+    height: 20px;
+    background-color: yellow;
+    font-size: x-   small;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 30px;
+    margin-top: 5px;
+}
+.d5
+{
+    display: inline-block;
+    margin-left: 20px;
+}
+.img1
+{
+    width: 900px;
+    margin-left: 10px;
+    height:320px ;
+    margin-top: 15px;
+}
+.d6
+{
+    width: 430px;
+    height: 151px;
+    background-color:rgb(240, 197, 6) ;
+}
+.d7
+{
+    width: 430px;
+    height: 151px;
+    background-color:rgb(240, 197, 6) ;
+}
+.p1
+{
+    padding-top: 40px;
+}
+.s1
+{
+    margin-left: 160px;
+    font-size: xxx-large;
+}
+.s2
+{
+    margin-left: 205px;
+    font-size: small;
+}
+.lastdiv
+{
+    display: inline-flex;
+    text-align: center;
+}
+.ld1
+{
+    width: 323px;
+    height: 180px;
+    background-color: white;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+    
+}
+.lp1
+{
+    font-size: small;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.li1
+{
+    padding-top: 5px;
+}
